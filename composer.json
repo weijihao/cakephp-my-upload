@@ -1,0 +1,13 @@
+{
+    "name": "trident/cakephp-my-upload",
+    "description": "this is a cakephp upload plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weijihao",
+            "email": "1005474666@qq.com"
+        }
+    ],
+    "require": {}
+}
