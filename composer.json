@@ -1,5 +1,5 @@
 {
-    "name": "trident/cakephp-my-upload",
+    "name": "weijihao/cakephp-my-upload",
     "description": "this is a cakephp upload plugin",
     "type": "composer-plugin",
     "license": "MIT",
